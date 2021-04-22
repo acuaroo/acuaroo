@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I'm acuaroo 👋
+I'm a 13 year old boy working to bypass school restrictions, and make awesome discord bots 😎
 
-<!--
-**acuaroo/acuaroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I currently script in...**
+- Lua 
+- Luau
+- JS
 
-Here are some ideas to get you started:
+**And languages and technologies I'm learning are**
+- C++
+- C
+- Crystal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
