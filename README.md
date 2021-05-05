@@ -5,11 +5,7 @@ I currently script in lua, luau, python, and javascript/nodejs
 
 I'm currently learning crystal, c, and c++!
 
----
+# Contact 📞
+Discord - `Acuaro#0314`
 
-My current project is devio, a multi-purpose developer oriented discord bot
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuaroo&repo=Devio&theme=synthwave)](https://github.com/acuaroo/Devio) 
-
-
-
+DevForums - [`acuaro`](https://devforum.roblox.com/u/acuaro/summary)
