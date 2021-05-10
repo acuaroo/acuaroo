@@ -1,7 +1,7 @@
 # Hey, I'm acuaroo 👋
-I'm a 13 year old boy working to bypass school restrictions, and make awesome discord bots 😎
+I'm a 13 year old boy working to bypass school restrictions, make awesome discord bots, and create cool games 😎
 
-I currently script in lua, luau, python, and javascript/nodejs
+I currently script in lua, luau, python, and javascript/nodejs.
 
 I'm currently learning crystal, c, and c++!
 
