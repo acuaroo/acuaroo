@@ -1,5 +1,5 @@
 # Hey, I'm acuaroo 👋
-I'm a 13 year old boy creating awesome discord bots & creating cool games 😎
+I'm currently creating awesome discord bots & creating cool games 😎
 
 I currently script in lua, luau, python, and javascript/nodejs.
 
