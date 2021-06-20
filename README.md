@@ -13,7 +13,7 @@
   
 </div>
 
-I love making games in roblox studio and have been using luau for over 3 years now. I own a roblox game dev studio [Pixelbyte](https://www.roblox.com/groups/10776683/Pixelbyte-Studio#!/about), and we're aiming to push the roblox market to a new era 🚀✨, and we hope to see you enjoy our games!
+I love making games in roblox studio and have been using luau for over 3 years now. I own DASH, and am working on a revamp of it!
 
 I use typescript & sass for making awesome websites, these are mainly for...
 - Portfolio's
