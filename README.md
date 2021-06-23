@@ -23,3 +23,5 @@ I use typescript & sass for making awesome websites, these are mainly for...
 
 Finally, I use rust to make blazing fast CLI's for codebase utilites! 
 
+
+This is a neweer account, older one got abanondened. 
