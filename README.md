@@ -13,15 +13,5 @@
   
 </div>
 
-I love making games in roblox studio and have been using luau for over 3 years now. I own DASH, and am working on a revamp of it!
+I love making games in roblox studio and have been using luau for over 3 years now. I own DASH, and am working on a revamp of it! I'm a semi-fullstack developer in the web sense, and have been doing HTML for around 3~4 years. Making games is my main passion, but on the side I love to write music, draw pixel art, and make websites!
 
-I use typescript & sass for making awesome websites, these are mainly for...
-- Portfolio's
-- Game Websites
-- Proxy's
-- And more...!
-
-Finally, I use rust to make blazing fast CLI's for codebase utilites! 
-
-
-This is a neweer account, older one got abanondened. 
