@@ -15,6 +15,8 @@
 
 **I'm a developer, mainly specialized in game development and am currently learning NextJS+React so I can get more into web development! I've released a few games on Roblox, and have explored game development outside of the platform as well. I'm a well versed developer thats ready to research and learn anything!**
 
+
+          
 ## Technology Expirience 🔨
 - Luau: *3 years+*
 - NodeJS w & w/o Typescript: *3 years+*
@@ -56,6 +58,8 @@ First released game! Everything was made by me. DASH was my adventure into obby/
 Those 3 are my main works, but you can scroll around my repo's to see what I'm up to. Finally, heres the link to me [Devforum Portfolio](https://devforum.roblox.com/t/acuaro-ui-designer-scripter/1090697). It has all Roblox game development related things on it.
 
 *Soon I do want to begin work on a proper website portfolio, for it I'll plan on using NextJS+TailwindCSS+Vercel!*
+
+<a href="https://app.daily.dev/acuaro"><img src="https://api.daily.dev/devcards/805b59443b7045639100d2c045a20664.png?r=ooi" width="300" alt="acuaro's Dev Card"/></a>
 
 ## Thanks for reading! 👋
 
