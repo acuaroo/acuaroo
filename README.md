@@ -1,5 +1,3 @@
-hey, i'm acuaro.
+Hey, I'm acuaro.
 
-⬇️ full portfolio here ⬇️
-
-https://www.acuaro.dev/
+Full portfolio > https://www.acuaro.dev/
