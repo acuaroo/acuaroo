@@ -1,4 +1,4 @@
-Hey, I'm acuaro.
+Hey, I'm Milan.
 
 - I'm a game dev who's also interested in machine learning
 - Mainly work in Python, ReactJS, & Lua
