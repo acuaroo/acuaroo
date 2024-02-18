@@ -4,4 +4,4 @@ Hey, I'm Milan.
 - Mainly work in Python, Java, ReactJS, & Lua
 - Currently learning Rust
 
-Full [portfolio](https://www.acuaro.dev/) if you wanna see some cool stuff I've made :) 
+Full [portfolio](https://milannair.dev) if you wanna see some cool stuff I've made :) 
